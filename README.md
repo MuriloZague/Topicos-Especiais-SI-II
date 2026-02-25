@@ -2,6 +2,8 @@
 
 Repositório destinado aos estudos da matéria Tópicos Especiais em SI II
 
+
+Tipos de mensagens em commits:
 <ul>
   <li>
 feat: Feature nova no projeto;
